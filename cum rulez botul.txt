@@ -1,0 +1,4 @@
+apesi pe butonul de windows, apoi cauti command prompt si scrii asta
+trebuie pe pagina de google deschisa ca sa gaseasca bara de search!!
+cd C:\Users\PC\Desktop\bot python versiunea finala
+python bott.py si dupa apesi enter
